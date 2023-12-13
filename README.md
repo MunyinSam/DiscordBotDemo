@@ -4,3 +4,8 @@ So this a copy demo version containing only parts of the main code
 Requirements
 - A MongoDB database [Not provided]
 - Discord Bot Token (Available in Discord Developer Portal) [Not Provided]
+
+
+# Real Repository
+
+- https://github.com/Hamster-Park
