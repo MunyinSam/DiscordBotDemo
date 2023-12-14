@@ -5,7 +5,15 @@ Requirements
 - A MongoDB database [Not provided]
 - Discord Bot Token (Available in Discord Developer Portal) [Not Provided]
 
+# Functions
+
+- Stores member data (stats,coins,items)
+- Displays Market stocks
+- Buy Items
+- Sell Items
+- Spawn Monsters (different in every zones)
 
 # Real Repository
 
 - https://github.com/Hamster-Park
+(privated)
