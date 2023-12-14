@@ -12,6 +12,8 @@ Requirements
 - Buy Items
 - Sell Items
 - Spawn Monsters (different in every zones)
+- Combat System
+- Reward System
 
 # Real Repository
 
